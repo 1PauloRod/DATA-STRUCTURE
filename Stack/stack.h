@@ -12,3 +12,4 @@ void push(Stack* stack, int value);
 int pop(Stack* stack);
 int empty_stack(Stack* stack); 
 void free_stack(Stack* stack);
+void print_stack(Stack* stack);
