@@ -13,7 +13,6 @@ int main(void){
     insertHash(hash, 25);
     insertHash(hash, 14);
 
-
     printf("Hash:\n\n");
     printHash(hash, LEN);
     printf("\n\n");
